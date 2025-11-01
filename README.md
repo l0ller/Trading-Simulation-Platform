@@ -275,7 +275,3 @@ This project demonstrates:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Author
-
-[Your Name]
-- GitHub: [@l0ller](https://github.com/l0ller)
